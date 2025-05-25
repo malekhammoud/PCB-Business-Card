@@ -44,3 +44,5 @@ Converted schematic to PCB:
 ![image](https://github.com/user-attachments/assets/358183ae-901a-4bf2-be1d-d3d8b77de8a6)
 ![image](https://github.com/user-attachments/assets/4c925f65-902b-420a-a2b5-894e03c152e1)
 ![image](https://github.com/user-attachments/assets/bc2d2551-b4d9-4752-beb3-ec0ec2fb2eec)
+
+Made by @malek (U07UFPAALJ2)
