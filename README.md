@@ -4,13 +4,13 @@ This project documents the process of designing and manufacturing a custom PCB b
 
 ## 🛠 Overview
 
-Inspired by [Make your own PCB Hacker Card](https://github.com/hackclub/OnBoard), this business card:
+This business card:
 - Transmits a URL via NFC
 - Lights up using harvested energy from a phone
 
 ---
 
-## 🧰 Components Used
+## Components Used
 
 | Component                     | Description                                  |
 |------------------------------|----------------------------------------------|
@@ -22,7 +22,7 @@ Inspired by [Make your own PCB Hacker Card](https://github.com/hackclub/OnBoard)
 
 ---
 
-## 🧩 Schematic
+## Schematic
 ![image](https://github.com/user-attachments/assets/3310a814-16e0-4af0-8daa-93370ee8e47b)
 
 Designed in EasyEDA:
@@ -33,7 +33,7 @@ Designed in EasyEDA:
 
 ---
 
-## 🧱 PCB Layout
+## PCB Layout
 
 Converted schematic to PCB:
 - Board Size: `88.9mm x 50.8mm`, round rectangular, 4mm radius
@@ -44,5 +44,3 @@ Converted schematic to PCB:
 ![image](https://github.com/user-attachments/assets/358183ae-901a-4bf2-be1d-d3d8b77de8a6)
 ![image](https://github.com/user-attachments/assets/4c925f65-902b-420a-a2b5-894e03c152e1)
 ![image](https://github.com/user-attachments/assets/bc2d2551-b4d9-4752-beb3-ec0ec2fb2eec)
-
-Made by @malek (U07UFPAALJ2)
